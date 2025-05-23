@@ -1,7 +1,7 @@
 ﻿# SpringBootCrudPatterns
 
 Depois que levantar a aplicação abra o browser e coloque essas urls para ver o programa funcionando
-http://localhost:8080/usuarios
+http://localhost:8080/usuarios/pesquisa
 Para acessar o banco de dados
 http://localhost:8080/h2-console
 
